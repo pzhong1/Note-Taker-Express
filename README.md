@@ -1,4 +1,5 @@
 ## The URL of the functional, deployed application.
+https://pzhong1.github.io/Note-Taker-Express/
 
 ## The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.  
 https://github.com/pzhong1/Note-Taker-Express.git
