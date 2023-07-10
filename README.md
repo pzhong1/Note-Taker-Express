@@ -48,3 +48,5 @@ GET /api/notes should read the db.json file and return all saved notes as JSON.
 POST /api/notes should receive a new note to save on the request body, add it to the db.json file, and then return the new note to the client. You'll need to find a way to give each note a unique id when it's saved (look into npm packages that could do this for you).
  ## screenshot
 ![Screenshot 2023-07-09 at 10 56 15 PM (2)](https://github.com/pzhong1/Note-Taker-Express/assets/123424361/a0de2148-32c2-4cd8-974c-c60bafdfc2c6)
+
+![Screenshot 2023-07-09 at 10 57 16 PM (2)](https://github.com/pzhong1/Note-Taker-Express/assets/123424361/0aef11fa-b5dd-46c0-9c9c-0db3bf1f90c3)
