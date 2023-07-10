@@ -50,3 +50,5 @@ POST /api/notes should receive a new note to save on the request body, add it to
 ![Screenshot 2023-07-09 at 10 56 15 PM (2)](https://github.com/pzhong1/Note-Taker-Express/assets/123424361/a0de2148-32c2-4cd8-974c-c60bafdfc2c6)
 
 ![Screenshot 2023-07-09 at 10 57 16 PM (2)](https://github.com/pzhong1/Note-Taker-Express/assets/123424361/0aef11fa-b5dd-46c0-9c9c-0db3bf1f90c3)
+
+<img width="1440" alt="Screenshot 2023-07-09 at 11 00 32 PM" src="https://github.com/pzhong1/Note-Taker-Express/assets/123424361/0b34702c-9215-4f42-a46f-627ffcf66881">
