@@ -1,6 +1,7 @@
 ## The URL of the functional, deployed application.
 
 ## The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.  
+https://github.com/pzhong1/Note-Taker-Express.git
 
 ## TASK
  Create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file  
